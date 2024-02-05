@@ -1,0 +1,10 @@
+.row {
+    border: 2px solid;
+}
+
+
+.img1 img, 
+.img2 img,
+.img3 img {
+    width: 400px;
+}
